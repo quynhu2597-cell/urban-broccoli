@@ -10,7 +10,7 @@ Which products and categories perform best?
 How do customers behave over time?
 What factors affect customer satisfaction?
 
- 2. Dataset
+2. Dataset
 Dataset: Brazilian E-Commerce Public Dataset by Olist
 Data includes:
 Orders
@@ -102,10 +102,10 @@ Returning customers contribute significantly to total revenue
 Higher review scores correlate with higher order value
 Delivery time impacts customer satisfaction
 
-🧾 6. Conclusion
+ 6. Conclusion
 This analysis provides insights into revenue drivers, customer behavior, and operational performance, helping businesses make data-driven decisions.
 
-💼 7. Skills Demonstrated
+ 7. Skills Demonstrated
 SQL Data Cleaning
 Data Transformation
 Multi-table Joins
