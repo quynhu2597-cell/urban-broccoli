@@ -1,4 +1,4 @@
-# urban-broccoli
+DATA ANALYST PROJECT
 
 E-commerce Sales Analysis using SQL
 
